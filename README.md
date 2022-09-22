@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E2F727&width=435&lines=%22Hello+World!%22;+I'm+Emine+(%E2%97%95%E2%80%BF%E2%97%95%E2%9C%BF);I'm+still+learning+%3A);(%E3%81%A5+%E2%97%95%E2%80%BF%E2%97%95+)%E3%81%A5" alt="Typing SVG" /></a>
 
 <!--
 **EmineKayhan/EmineKayhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
